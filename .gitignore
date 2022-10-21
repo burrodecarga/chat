@@ -3,7 +3,8 @@ build/
 client/_cacache
 client/_locks
 client/_logs
-_cacache
+_cacache/*
 _locks
 _logs
+_cacache
 
