@@ -1,5 +1,8 @@
 node_modules/
 build/
+client/_cacache
+client/_locks
+client/_logs
 _cacache
 _locks
 _logs
